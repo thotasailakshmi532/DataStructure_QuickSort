@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure_QuickSort", "DataStructure_QuickSort\DataStructure_QuickSort.csproj", "{EFE06028-77C3-4ABC-AE0A-CCC5F80A1507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE06028-77C3-4ABC-AE0A-CCC5F80A1507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE06028-77C3-4ABC-AE0A-CCC5F80A1507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE06028-77C3-4ABC-AE0A-CCC5F80A1507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE06028-77C3-4ABC-AE0A-CCC5F80A1507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9ACD0B-A976-40FE-A78A-E2179ABE0ABF}
+	EndGlobalSection
+EndGlobal
